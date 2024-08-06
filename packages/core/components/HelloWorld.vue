@@ -5,7 +5,7 @@ const { myLayer } = useAppConfig();
 
 <template>
   <div>
-    <h1>Hello World!</h1>
+    <h1>This is from the gh repo</h1>
     <pre>{{ myLayer }}</pre>
   </div>
 </template>
